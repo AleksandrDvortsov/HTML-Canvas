@@ -1,0 +1,30 @@
+body{
+    background-image: url("../../CW_14_9/image/background28.jpg");
+}
+#c1{
+    width: 1170px;
+    height: 100px;
+    border: 3px solid black;
+    margin-left: 50px;
+    /*background-color: lightgrey;*/
+    /*background-image: url("https://st2.depositphotos.com/5479200/10568/v/950/depositphotos_105683358-stock-illustration-city-game-background.jpg");*/
+}
+#image1{
+    width: 85px;
+    position: absolute;
+
+}
+.button {
+    background-color: crimson;
+    border: none;
+    margin-left: 50px;
+    color: white;
+    padding: 20px 35px;
+    text-align: center;
+    font-size: 30px;
+    opacity: 0.2;
+    border-radius: 50px;
+    transition: 2s;
+}
+
+.button:hover {opacity: 1}

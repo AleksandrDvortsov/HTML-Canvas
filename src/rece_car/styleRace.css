@@ -1,0 +1,34 @@
+body{
+    background-image: url("imgRace/background28.jpg");
+}
+#race{
+    width: 1200px;
+    height: 500px;
+    border: 3px solid black;
+    margin-left: 50px;
+    background-color: lightgrey;
+    /*background-image: url("https://st2.depositphotos.com/5479200/10568/v/950/depositphotos_105683358-stock-illustration-city-game-background.jpg");*/
+}
+#finish{
+    width: 95px;
+    height: 500px;
+    /*border: 3px solid black;*/
+    margin-left: -104px;
+    margin-bottom: 3px;
+    /*background-color: lightgrey;*/
+    /*background-image: url("https://st2.depositphotos.com/5479200/10568/v/950/depositphotos_105683358-stock-illustration-city-game-background.jpg");*/
+}
+.btn {
+    background-color: crimson;
+    border: none;
+    margin-left: 50px;
+    color: white;
+    padding: 20px 35px;
+    text-align: center;
+    font-size: 30px;
+    opacity: 0.2;
+    border-radius: 50px;
+    transition: 2s;
+}
+
+.btn:hover {opacity: 1}

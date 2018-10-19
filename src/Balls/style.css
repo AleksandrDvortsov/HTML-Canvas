@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+#canvas{
+    background-image: url("https://look.com.ua/pic/201210/800x600/look.com.ua-59588.jpg");
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position:center;
+    width: 800px;
+    height: 600px;
+    border: 1px solid crimson;
+    /*background: black;*/
+}
